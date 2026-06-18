@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.egg
+
+# Data files (not committed — download separately)
+data/raw/
+data/processed/
+*.mat
+*.edf
+
+# Generated outputs
+figures/
+phase8_documentation/outputs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
